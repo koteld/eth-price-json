@@ -1,12 +1,4 @@
 {
-  "ethereum": {
-    "usd":1783.0
-  },
-  "node1": {
-    "ethereum": {
-      "usd":1000.0
-    }
-  },
   "node2": {
     "ethereum": {
       "usd":1010.0
