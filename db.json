@@ -1,1 +1,35 @@
-{"ethereum":{"usd":1783.0}}
+{
+  "ethereum": {
+    "usd":1783.0
+  },
+  "node1": {
+    "ethereum": {
+      "usd":1000.0
+    }
+  },
+  "node2": {
+    "ethereum": {
+      "usd":1010.0
+    }
+  },
+  "node3": {
+    "ethereum": {
+      "usd":1020.0
+    }
+  },
+  "node4": {
+    "ethereum": {
+      "usd":1030.0
+    }
+  },
+  "node5": {
+    "ethereum": {
+      "usd":4000.0
+    }
+  },
+  "node6": {
+    "ethereum": {
+      "usd":1050.0
+    }
+  }
+}
